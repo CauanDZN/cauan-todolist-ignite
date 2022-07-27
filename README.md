@@ -15,16 +15,3 @@ No gif abaixo é possível conferir o funcionamento da aplicação após a adiç
 
 ![Gif do Funcionamento da Aplicação](public/to-do.gif)
 
-## Recursos Extras Adicionados
-
-### 1. Responsividade
-
-A fim de praticar alguns conceitos adicionais do Desenvolvimento Front-End, adicionei também responsividade à aplicação. O resultado pode ser observado no gif abaixo:
-
-![Gif motrando responsividade](public/to-do-responsive.gif)
-
-### 2. Alerta (Toast) de Tarefa Vazia
-
-Foi passado que a tarefa não deveria ser adicionada, caso fosse vazia. Sendo assim, adicionei um Toast para notificar ao usuário que tarefas vazias não podem ser adicionadas, visando uma melhoria na experiência do usuário (UX). O resultado pode ser conferido no gif apresentado na própria seção **Funcionamento da Aplicação**.
-
-> OBS.: Este recurso está disponível apenas na branch `feature/add-toast`.
